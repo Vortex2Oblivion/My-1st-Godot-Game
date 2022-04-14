@@ -14,6 +14,10 @@ config/name="My 1st Godot Game"
 run/main_scene="res://Player.tscn"
 config/icon="res://icon.png"
 
+[debug]
+
+settings/stdout/print_fps=true
+
 [display]
 
 window/size/width=480
